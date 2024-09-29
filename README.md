@@ -2,7 +2,7 @@
 
 About 
 
-Landing page for a company
+* Landing page for a company
 Responsive layout for various screen-widths
 
 Technologies Used
