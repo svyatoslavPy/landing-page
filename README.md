@@ -12,4 +12,4 @@ Technologies Used
 * SCSS
 * BEM
 
-[DEMO LINK](https://svyatoslavPy.github.io/landing-page/) | [LAYOUT DESIGN] (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1)
+[DEMO LINK](https://svyatoslavPy.github.io/landing-page/) | [LAYOUT DESIGN](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1)
