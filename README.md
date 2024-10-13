@@ -12,3 +12,7 @@ Technologies Used
 * BEM
 
 [DEMO LINK](https://svyatoslavPy.github.io/landing-page/) | [LAYOUT DESIGN](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1)
+
+git clone https://github.com/svyatoslavPy/landing-page.git
+npm i
+npm run start
