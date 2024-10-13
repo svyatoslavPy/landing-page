@@ -15,7 +15,7 @@ Technologies Used
 
 Follow instructions
 
-* Make sure you have Node.js installed (version 14.x or higher is recommended)
+* Make sure you have Node.js installed (higher version 14.x).
 * git clone https://github.com/svyatoslavPy/landing-page.git
 * npm i
 * npm run start
