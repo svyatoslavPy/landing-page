@@ -11,6 +11,9 @@
 @import "blocks/contact-us";
 @import "blocks/footer";
 
+* {
+  font-family: $general-font-family;
+}
 
 html {
   scroll-behavior: smooth;
@@ -21,8 +24,6 @@ h2, p {
 }
 
 .page__body {
-  font-family: $general-font-family;
-  font-style: normal;
   background-color: $general-bg;
   line-height: 100%;
   margin: 0;
